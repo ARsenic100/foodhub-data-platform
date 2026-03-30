@@ -1,0 +1,31 @@
+item_id,item_name,cuisine,price,serving_size,kitchen_name,available
+FH001,Butter Chicken (serves 2),North Indian,320.0,portion,Cloud Kitchen A,True
+FH002,Dal Makhani (serves 2),North Indian,220.0,portion,Cloud Kitchen A,True
+FH003,Paneer Tikka Masala (serves 2),North Indian,280.0,portion,Cloud Kitchen B,True
+FH004,Chole Bhature (serves 1),North Indian,180.0,plate,Cloud Kitchen A,True
+FH005,Biryani - Chicken (serves 2),Biryani,380.0,portion,Biryani Box,True
+FH006,Biryani - Veg (serves 2),Biryani,280.0,portion,Biryani Box,True
+FH007,Biryani - Mutton (serves 2),Biryani,450.0,portion,Biryani Box,True
+FH008,Masala Dosa,South Indian,120.0,piece,South Spice,True
+FH009,Idli Sambar (4 pieces),South Indian,80.0,plate,South Spice,True
+FH010,Vada Pav (2 pieces),Street Food,60.0,plate,Mumbai Bites,True
+FH011,Pav Bhaji,Street Food,150.0,plate,Mumbai Bites,True
+FH012,Pani Puri (6 pieces),Street Food,80.0,plate,Mumbai Bites,True
+FH013,Margherita Pizza (8 inch),Pizza,250.0,piece,Pizza Oven,True
+FH014,Pepperoni Pizza (8 inch),Pizza,320.0,piece,Pizza Oven,True
+FH015,Veg Supreme Pizza (8 inch),Pizza,280.0,piece,Pizza Oven,True
+FH016,Classic Burger,Burgers,180.0,piece,Burger Point,True
+FH017,Chicken Zinger Burger,Burgers,220.0,piece,Burger Point,True
+FH018,Veggie Delight Burger,Burgers,160.0,piece,Burger Point,False
+FH019,Hakka Noodles (serves 2),Chinese,200.0,portion,Wok & Roll,True
+FH020,Fried Rice (serves 2),Chinese,180.0,portion,Wok & Roll,True
+FH021,Manchurian (serves 2),Chinese,220.0,portion,Wok & Roll,True
+FH022,Chocolate Brownie,Desserts,120.0,piece,Sweet Cravings,True
+FH023,Gulab Jamun (4 pieces),Desserts,80.0,plate,Sweet Cravings,True
+FH024,Ice Cream - Vanilla (2 scoops),Desserts,90.0,cup,Cream Corner,True
+FH025,Rasgulla (4 pieces),Desserts,95.0,plate,Sweet Cravings,False
+FH026,Masala Chai (2 cups),Beverages,60.0,cup,Chai Corner,True
+FH027,Cold Coffee,Beverages,120.0,glass,Brew House,True
+FH028,Fresh Lime Soda,Beverages,80.0,glass,Brew House,True
+FH029,Mango Lassi,Beverages,110.0,glass,Chai Corner,True
+FH030,Mineral Water 1L,Beverages,30.0,bottle,Bisleri,True
